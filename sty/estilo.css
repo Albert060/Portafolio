@@ -470,13 +470,13 @@
             transition: .5s;
         }
 
-        #portfolio .fila .proyecto .info a{
-            color: #ff5080;git
-        }
-
         #portfolio .fila .proyecto:hover .info {
             opacity: 1;
             bottom: 0;
+        }
+
+        #portfolio .fila .proyecto .info a{
+            color: #ff5080;
         }
         /* *********************/
         /* seccion C O N T A C T O */
